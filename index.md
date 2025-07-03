@@ -6,11 +6,15 @@ This blog is meant to act as a space for me to document the work I do as a part 
 Last updated: July 3nd 2025
 
 Mechanical construction:
+
 Status: completed
+
 Notes: very straight foward, follow the steps provided in the article to the letter, for best results use a E1 ClipTip, tip cone assembly that is a size 125 µL or above as these are the only sizes that allow for the tip ejection mechanic
 
 Electrical setup
+
 Status: Inconclusive
+
 Notes:
 follow instructions on the paper almost exactly except for a few points and some additonal notes
 - not neccesary to connect wiring for special use case componenets, only the pipete assembly needs to be wired
